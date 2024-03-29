@@ -1,4 +1,4 @@
-@ -1,13 +1,24 @@
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&height=200&section=heade&text=vue.js_weekly_study&textBg=true&fontSize=60&fontColor=auto" />
 📝 vue.js 스터디<br>
 📅 2024/02~<br>
