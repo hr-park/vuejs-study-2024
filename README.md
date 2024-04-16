@@ -5,7 +5,6 @@
 🔨 vue.js<br>
 <br><br>
 <b>목차</b><br><br>
-1-vue-basic<br>
 [Day1. Vue.js 셋팅 + Tailwind CSS]<br>
 [Day2. Vue.js Component 구성, State/Props]<br>
 [Day3. v-for를 이용한 리스트 렌더링]<br>
